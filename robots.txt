@@ -1,0 +1,6 @@
+# robots.txt — сайт маркетолога Александра Романова
+User-agent: *
+Allow: /
+Disallow: /*utm_
+
+Sitemap: https://romanovmarketolog.ru/sitemap.xml
